@@ -19,11 +19,11 @@ I am interested in **electrical power systems, renewable-energy integration, mic
 
 | Work | Description |
 | --- | --- |
-| **Hybrid renewable microgrid — MATLAB/Simulink** | UTS postgraduate **group coursework** involving solar PV, wind generation, battery storage and grid integration. Contributions and model-sharing permissions are being reviewed. |
-| **EV charging and solar microgrids in Bangladesh** | **Co-authored BSc thesis** examining solar-assisted EV charging and microgrid concepts in Bangladesh. |
-| **EV/PV feeder-voltage demonstration — Python** | **Educational prototype under review**, using a simplified feeder-voltage approximation. Not a validated research model or publication. |
+| [**Hybrid renewable microgrid — MATLAB/Simulink**](https://github.com/mdzahidhasan8889-ship-it/mdzahidhasan_EEE/tree/main/projects/hybrid-renewable-microgrid) | UTS postgraduate **group coursework** involving solar PV, wind generation, battery storage and grid integration. Contributions and model-sharing permissions are being reviewed. |
+| [**EV charging and solar microgrids in Bangladesh**](https://github.com/mdzahidhasan8889-ship-it/mdzahidhasan_EEE/tree/main/projects/ev-charging-solar-microgrids-thesis) | **Co-authored BSc thesis** examining solar-assisted EV charging and microgrid concepts in Bangladesh. |
+| [**EV/PV feeder-voltage demonstration — Python**](https://github.com/mdzahidhasan8889-ship-it/mdzahidhasan_EEE/tree/main/projects/ev-pv-feeder-voltage-demo) | **Educational prototype under review**, using a simplified feeder-voltage approximation. Not a validated research model or publication. |
 
-Read more in my [electrical engineering portfolio repository](https://github.com/mdzahidhasan8889-ship-it/mdzahidhasan_EEE). Dedicated project repositories will be added when their documentation and sharing permissions are ready.
+Project documentation and the educational Python source code are available in my [electrical engineering portfolio repository](https://github.com/mdzahidhasan8889-ship-it/mdzahidhasan_EEE). The projects currently live in folders within that repository.
 
 ## Technical tools
 
